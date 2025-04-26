@@ -7,7 +7,7 @@ This is my project on micro multi-objective, which was accepted by ESWA in April
 The work was mainly completed by my team member Fang. My work involves supervision, polishing, and guidance. The first author is my supervisor, Hu Peng, the second is Tian Fang, and I am the third author.
 Fang is a hardworking girl whose research journey is exceptionally difficult, and her boring code and long rejection cycles have not defeated her.
 Sharing and helping have also brought me tremendous progress.
-If you have any questions about this article or related fields, please feel free to communicate with me at any time. QQ email:1972026766@qq.com. 😇
+If you have any questions about this article or related fields, please feel free to communicate with me at any time. QQ email: 1972026766@qq.com. 😇
 
 🦥Environment
 ---
